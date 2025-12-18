@@ -21,7 +21,6 @@ data.sort_values('Date', inplace=True)
 # print the first few rows of the processed data
 print(data.head())
 
-
 # initialize the Dash app
 app = Dash(__name__)
 
@@ -62,5 +61,5 @@ app.layout = html.Div(
 
 # run the app locally using built in server
 if __name__ == "__main__":
-    app.run(debug=True) # changes on the code will be reflected without restarting the server
+    app.run(debug=True)    # changes on the code will be reflected without restarting the server
 
