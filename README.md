@@ -1,4 +1,5 @@
-Avocado Analytics Dashboard
+# Avocado Analytics Dashboard
+
 A Python Dash web application for visualizing and analyzing avocado price trends and sales volumes across different regions in the United States.
 📊 Project Overview
 This interactive dashboard provides insights into avocado pricing behavior and sales volumes from 2015 to 2018. The application allows users to explore trends in the conventional avocado market, specifically focusing on the Albany region.
